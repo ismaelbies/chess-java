@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Chess2:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="86e6fe05-3c8a-49b6-9266-61d8f7e73bd2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +42,8 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/junit5-master/junit5-master" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/Chess2_jar" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="experimental" />
@@ -59,6 +64,9 @@
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.chess" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ismael\IdeaProjects\Chess2\out\artifacts\Chess2_jar" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Ismael\IdeaProjects\Chess2\art" />
@@ -179,6 +187,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578502246916" />
+    <state x="413" y="146" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579133215893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="146" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1579133215893" />
     <state x="392" y="115" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1578342289128">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -199,30 +211,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="548" y="125" key="DetectedRootsChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1578587107149" />
-    <state x="389" y="104" key="FileChooserDialogImpl" timestamp="1578587082751">
+    <state x="389" y="104" key="FileChooserDialogImpl" timestamp="1579133156293">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="389" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578587082751" />
-    <state width="1300" height="280" key="GridCell.Tab.0.bottom" timestamp="1579127452103">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state x="389" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579133156293" />
+    <state width="1300" height="280" key="GridCell.Tab.0.bottom" timestamp="1579134843621">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1300" height="280" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1579127452103" />
-    <state width="1306" height="280" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578592482036" />
-    <state width="1300" height="280" key="GridCell.Tab.0.center" timestamp="1579127452103">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="1300" height="280" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579134843621" />
+    <state width="1300" height="280" key="GridCell.Tab.0.center" timestamp="1579134843621">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1300" height="280" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1579127452103" />
-    <state width="1306" height="280" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578592482036" />
-    <state width="1300" height="280" key="GridCell.Tab.0.left" timestamp="1579127452103">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="1300" height="280" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579134843621" />
+    <state width="1300" height="280" key="GridCell.Tab.0.left" timestamp="1579134843621">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1300" height="280" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1579127452103" />
-    <state width="1306" height="280" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578592482036" />
-    <state width="1300" height="280" key="GridCell.Tab.0.right" timestamp="1579127452103">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="1300" height="280" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579134843621" />
+    <state width="1300" height="280" key="GridCell.Tab.0.right" timestamp="1579134843621">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1300" height="280" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1579127452103" />
-    <state width="1306" height="280" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578592482036" />
+    <state width="1300" height="280" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579134843621" />
     <state width="1322" height="184" key="GridCell.Tab.1.bottom" timestamp="1578508665742">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -243,10 +255,10 @@
     </state>
     <state width="1322" height="184" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1578508665742" />
     <state width="1322" height="184" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1578507632666" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1578587621931">
+    <state x="167" y="0" key="SettingsEditor" timestamp="1579133236754">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578587621931" />
+    <state x="167" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579133236754" />
     <state x="377" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1579126961513">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
